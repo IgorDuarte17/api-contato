@@ -15,4 +15,4 @@
 - $ composer dump-autoload -o
 
 ### Responsáveis
-Igor Duarte igors.d@hotmail.com
+Igor Santos igors.d@hotmail.com
